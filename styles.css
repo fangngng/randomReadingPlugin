@@ -1,0 +1,11 @@
+.highlight {
+  background-color: yellow;
+}
+
+.toggle-icon {
+  width: 20px;
+  height: 20px;
+  top: -10px;
+  right: -10px;
+  z-index: 9999; /* 确保图标位于前景 */
+}
